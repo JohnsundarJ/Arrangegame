@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arrangegame/static/css/main.e4b60009.chunk.css",
+    "main.js": "/Arrangegame/static/js/main.d07edf5b.chunk.js",
+    "main.js.map": "/Arrangegame/static/js/main.d07edf5b.chunk.js.map",
+    "runtime-main.js": "/Arrangegame/static/js/runtime-main.44cb0024.js",
+    "runtime-main.js.map": "/Arrangegame/static/js/runtime-main.44cb0024.js.map",
+    "static/js/2.4ad9e2c4.chunk.js": "/Arrangegame/static/js/2.4ad9e2c4.chunk.js",
+    "static/js/2.4ad9e2c4.chunk.js.map": "/Arrangegame/static/js/2.4ad9e2c4.chunk.js.map",
+    "index.html": "/Arrangegame/index.html",
+    "precache-manifest.175e8156364e35a556713abf9116f9a6.js": "/Arrangegame/precache-manifest.175e8156364e35a556713abf9116f9a6.js",
+    "service-worker.js": "/Arrangegame/service-worker.js",
+    "static/css/main.e4b60009.chunk.css.map": "/Arrangegame/static/css/main.e4b60009.chunk.css.map",
+    "static/js/2.4ad9e2c4.chunk.js.LICENSE.txt": "/Arrangegame/static/js/2.4ad9e2c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44cb0024.js",
+    "static/js/2.4ad9e2c4.chunk.js",
+    "static/css/main.e4b60009.chunk.css",
+    "static/js/main.d07edf5b.chunk.js"
+  ]
+}
